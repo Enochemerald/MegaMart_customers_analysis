@@ -1,7 +1,7 @@
-# Customer Personality Analysis
+# MegaMart customers' analysis
 
 ## Introduction
-Customer Personality Analysis is a crucial process that helps businesses understand their customers' preferences, behaviors, and spending habits. By leveraging customer data, companies can refine their marketing strategies, enhance customer engagement, and improve product offerings tailored to different customer segments. This project aims to analyze customer personality traits using various demographic and transactional attributes, ultimately helping businesses make data-driven decisions to optimize their sales and marketing efforts.
+MegaMart customers analysis is a crucial process that helps businesses understand their customers' preferences, behaviors, and spending habits. By leveraging customer data, companies can refine their marketing strategies, enhance customer engagement, and improve product offerings tailored to different customer segments. This project aims to analyze customer personality traits using various demographic and transactional attributes, ultimately helping businesses make data-driven decisions to optimize their sales and marketing efforts.
 The dataset was obtained from https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 ## Objectives
